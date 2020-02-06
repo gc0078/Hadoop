@@ -1,2 +1,2 @@
 # OTTApps
-Over The Top Mobile Applications
+Over The Top 5 Mobile Applications using MapReduce
